@@ -1,1 +1,1 @@
-Olá, este é um código teste feito para a aula de Git e GitHub para iniciantes.
+Olá, este é um repositório teste feito para a aula de Git e GitHub.
